@@ -1,0 +1,28 @@
+name: Magnus Danger Magnus
+favicon: null
+layout_spectrum: 0.5860805935226381
+typography_spectrum: 0.10986506007611752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9962151139043272
+  lightness: 0.5263455163221806
+  saturation: 0.12423095759004354
+  rhythmicContrast: 0.863892835797742
+purpose: []
