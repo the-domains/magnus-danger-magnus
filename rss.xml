@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Magnus Danger Magnus]]></title>
         <description><![CDATA[Magnus Danger Magnus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/magnus-danger-magnus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 07:39:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 08:31:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/magnus-danger-magnus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fb288cd-8c3f-4dcc-8065-600eeccbc605.jpg">]]></description>
+            <link>https://thegrid.ai/magnus-danger-magnus/ef2aaafa-4e18-491e-8d29-4c721012d581/index.html</link>
+            <guid isPermaLink="false">ef2aaafa-4e18-491e-8d29-4c721012d581</guid>
+            <pubDate>Fri, 01 Apr 2016 08:31:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6a6c1b1-6fd0-4671-86e2-f1c25eeac6ad.jpg">]]></description>
-            <link>undefined51bc72bc-def6-43e6-ba4f-fd3bb9d0341f/index.html</link>
+            <link>https://thegrid.ai/magnus-danger-magnus/51bc72bc-def6-43e6-ba4f-fd3bb9d0341f/index.html</link>
             <guid isPermaLink="false">51bc72bc-def6-43e6-ba4f-fd3bb9d0341f</guid>
             <pubDate>Fri, 01 Apr 2016 07:39:20 GMT</pubDate>
         </item>
